@@ -3,5 +3,22 @@
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-uglify": "^1.5.1"
-  }
+  },
+  "name": "jquery-passy",
+  "description": "Passy emphasize the importance of good passwords",
+  "version": "1.0.1",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamihouse/passy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamihouse/passy/issues"
+  },
+  "homepage": "https://github.com/kamihouse/passy#readme"
 }
